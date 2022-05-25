@@ -1,0 +1,23 @@
+.videotable {
+    margin-left: 15%;
+}
+
+.videocover {
+    width: 45%;
+    height: 45%;
+}
+
+button {
+    background-color: #aa0404;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+  }
+
+.trailer-text {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 55px;
+}
